@@ -51,8 +51,6 @@ Trained in ML fundamentals, TensorFlow, and real-world problem solving while col
 Reliability analysis on industrial systems using **FMECA**, **RCM**, and **RAM** methodologies.
 
 
-### 🔹 Advocacy Director @ HopeHelps ITS
-Led support efforts for sexual violence survivors, worked with multidisciplinary teams, and managed community-focused initiatives.
 
 
 ---
