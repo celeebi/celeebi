@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @celeebi
 - 👀 I’m interested in Data Science, Data Analytics, Machine Learning
-- 🌱 I’m currently learning Data Science and Analytics skill in Pacmann Academy
+- 🌱 a Fresh graduate from Engineering Physics ITS
 - 📫 How to reach me @afenterprisefarhan@gmail.com
 
 <!---
